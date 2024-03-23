@@ -1,0 +1,90 @@
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\bin\Debug\net6.0\CustomProject.exe
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\bin\Debug\net6.0\CustomProject.deps.json
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\bin\Debug\net6.0\CustomProject.runtimeconfig.json
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\bin\Debug\net6.0\CustomProject.dll
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\bin\Debug\net6.0\CustomProject.pdb
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\obj\Debug\net6.0\CustomProject.csproj.AssemblyReference.cache
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\obj\Debug\net6.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfoInputs.cache
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfo.cs
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\obj\Debug\net6.0\CustomProject.csproj.CoreCompileInputs.cache
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\obj\Debug\net6.0\CustomProject.dll
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\obj\Debug\net6.0\refint\CustomProject.dll
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\obj\Debug\net6.0\CustomProject.pdb
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\obj\Debug\net6.0\CustomProject.genruntimeconfig.cache
+A:\Swinburne\3_COS20007_Object_Oriented_Programming\CustomProject\obj\Debug\net6.0\ref\CustomProject.dll
+C:\msys64\home\hoang\CustomProject\bin\Debug\net6.0\CustomProject.exe
+C:\msys64\home\hoang\CustomProject\bin\Debug\net6.0\CustomProject.deps.json
+C:\msys64\home\hoang\CustomProject\bin\Debug\net6.0\CustomProject.runtimeconfig.json
+C:\msys64\home\hoang\CustomProject\bin\Debug\net6.0\CustomProject.dll
+C:\msys64\home\hoang\CustomProject\bin\Debug\net6.0\CustomProject.pdb
+C:\msys64\home\hoang\CustomProject\obj\Debug\net6.0\CustomProject.csproj.AssemblyReference.cache
+C:\msys64\home\hoang\CustomProject\obj\Debug\net6.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\hoang\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfoInputs.cache
+C:\msys64\home\hoang\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfo.cs
+C:\msys64\home\hoang\CustomProject\obj\Debug\net6.0\CustomProject.csproj.CoreCompileInputs.cache
+C:\msys64\home\hoang\CustomProject\obj\Debug\net6.0\CustomProject.dll
+C:\msys64\home\hoang\CustomProject\obj\Debug\net6.0\refint\CustomProject.dll
+C:\msys64\home\hoang\CustomProject\obj\Debug\net6.0\CustomProject.pdb
+C:\msys64\home\hoang\CustomProject\obj\Debug\net6.0\CustomProject.genruntimeconfig.cache
+C:\msys64\home\hoang\CustomProject\obj\Debug\net6.0\ref\CustomProject.dll
+A:\CustomProject\bin\Debug\net6.0\CustomProject.exe
+A:\CustomProject\bin\Debug\net6.0\CustomProject.deps.json
+A:\CustomProject\bin\Debug\net6.0\CustomProject.runtimeconfig.json
+A:\CustomProject\bin\Debug\net6.0\CustomProject.dll
+A:\CustomProject\bin\Debug\net6.0\CustomProject.pdb
+A:\CustomProject\obj\Debug\net6.0\CustomProject.csproj.AssemblyReference.cache
+A:\CustomProject\obj\Debug\net6.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+A:\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfoInputs.cache
+A:\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfo.cs
+A:\CustomProject\obj\Debug\net6.0\CustomProject.csproj.CoreCompileInputs.cache
+A:\CustomProject\obj\Debug\net6.0\CustomProject.dll
+A:\CustomProject\obj\Debug\net6.0\refint\CustomProject.dll
+A:\CustomProject\obj\Debug\net6.0\CustomProject.pdb
+A:\CustomProject\obj\Debug\net6.0\CustomProject.genruntimeconfig.cache
+A:\CustomProject\obj\Debug\net6.0\ref\CustomProject.dll
+C:\Users\Admin\Desktop\CustomProject\bin\Debug\net6.0\CustomProject.exe
+C:\Users\Admin\Desktop\CustomProject\bin\Debug\net6.0\CustomProject.deps.json
+C:\Users\Admin\Desktop\CustomProject\bin\Debug\net6.0\CustomProject.runtimeconfig.json
+C:\Users\Admin\Desktop\CustomProject\bin\Debug\net6.0\CustomProject.dll
+C:\Users\Admin\Desktop\CustomProject\bin\Debug\net6.0\CustomProject.pdb
+C:\Users\Admin\Desktop\CustomProject\obj\Debug\net6.0\CustomProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CustomProject\obj\Debug\net6.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CustomProject\obj\Debug\net6.0\CustomProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CustomProject\obj\Debug\net6.0\CustomProject.dll
+C:\Users\Admin\Desktop\CustomProject\obj\Debug\net6.0\refint\CustomProject.dll
+C:\Users\Admin\Desktop\CustomProject\obj\Debug\net6.0\CustomProject.pdb
+C:\Users\Admin\Desktop\CustomProject\obj\Debug\net6.0\CustomProject.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CustomProject\obj\Debug\net6.0\ref\CustomProject.dll
+A:\Downloads (A)\CustomProject\bin\Debug\net6.0\CustomProject.exe
+A:\Downloads (A)\CustomProject\bin\Debug\net6.0\CustomProject.deps.json
+A:\Downloads (A)\CustomProject\bin\Debug\net6.0\CustomProject.runtimeconfig.json
+A:\Downloads (A)\CustomProject\bin\Debug\net6.0\CustomProject.dll
+A:\Downloads (A)\CustomProject\bin\Debug\net6.0\CustomProject.pdb
+A:\Downloads (A)\CustomProject\obj\Debug\net6.0\CustomProject.csproj.AssemblyReference.cache
+A:\Downloads (A)\CustomProject\obj\Debug\net6.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+A:\Downloads (A)\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfoInputs.cache
+A:\Downloads (A)\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfo.cs
+A:\Downloads (A)\CustomProject\obj\Debug\net6.0\CustomProject.csproj.CoreCompileInputs.cache
+A:\Downloads (A)\CustomProject\obj\Debug\net6.0\CustomProject.dll
+A:\Downloads (A)\CustomProject\obj\Debug\net6.0\refint\CustomProject.dll
+A:\Downloads (A)\CustomProject\obj\Debug\net6.0\CustomProject.pdb
+A:\Downloads (A)\CustomProject\obj\Debug\net6.0\CustomProject.genruntimeconfig.cache
+A:\Downloads (A)\CustomProject\obj\Debug\net6.0\ref\CustomProject.dll
+C:\msys64\home\Admin\Customprjhlc\CustomProject\obj\Debug\net6.0\CustomProject.csproj.AssemblyReference.cache
+C:\msys64\home\Admin\Customprjhlc\CustomProject\obj\Debug\net6.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Admin\Customprjhlc\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfoInputs.cache
+C:\msys64\home\Admin\Customprjhlc\CustomProject\obj\Debug\net6.0\CustomProject.AssemblyInfo.cs
+C:\msys64\home\Admin\Customprjhlc\CustomProject\obj\Debug\net6.0\CustomProject.csproj.CoreCompileInputs.cache
+C:\msys64\home\Admin\Customprjhlc\CustomProject\obj\Debug\net6.0\CustomProject.dll
+C:\msys64\home\Admin\Customprjhlc\CustomProject\obj\Debug\net6.0\refint\CustomProject.dll
+C:\msys64\home\Admin\Customprjhlc\CustomProject\obj\Debug\net6.0\CustomProject.pdb
+C:\msys64\home\Admin\Customprjhlc\CustomProject\bin\Debug\net6.0\CustomProject.exe
+C:\msys64\home\Admin\Customprjhlc\CustomProject\bin\Debug\net6.0\CustomProject.deps.json
+C:\msys64\home\Admin\Customprjhlc\CustomProject\bin\Debug\net6.0\CustomProject.runtimeconfig.json
+C:\msys64\home\Admin\Customprjhlc\CustomProject\bin\Debug\net6.0\CustomProject.dll
+C:\msys64\home\Admin\Customprjhlc\CustomProject\bin\Debug\net6.0\CustomProject.pdb
+C:\msys64\home\Admin\Customprjhlc\CustomProject\obj\Debug\net6.0\CustomProject.genruntimeconfig.cache
+C:\msys64\home\Admin\Customprjhlc\CustomProject\obj\Debug\net6.0\ref\CustomProject.dll
